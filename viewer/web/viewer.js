@@ -2176,7 +2176,7 @@
             exports.PDFViewerApplication = PDFViewerApplication;
             let validateFileURL;
             {
-                const HOSTED_VIEWER_ORIGINS = ["null", "http://post.tang5618.com", "https://post.tang5618.com", "http://tang1705.github.io", "https://tang1705.github.io"];
+                const HOSTED_VIEWER_ORIGINS = ["null", "http://post.tang5618.com", "https://post.tang5618.com","http://tang5618.com","https://tang5618.com", "http://tang1705.github.io", "https://tang1705.github.io"];
 
                 validateFileURL = function (file) {
                     if (file === undefined) {
