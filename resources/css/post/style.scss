@@ -177,14 +177,8 @@ a:hover, a:active {
 				width: 32px;
 				height: 32px;
 				border-radius: 300px;
-				z-index: 99;
 			}
 		}
-
-		.tang{
-			float: right;
-		}
-
 		.back_btn{
 			float: left;
 			padding-top: 5px;
@@ -762,7 +756,6 @@ a.btn {
 
 				img{
 					width: 100px;
-					z-index: 99;
 				}
 				h3{
 					font-size: 20px;
